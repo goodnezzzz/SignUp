@@ -35,7 +35,7 @@ hr{
     width: 400px;
 }
 .name{
-    width: 185px;
+    width: 185.3px;
     height: 27px;
     border: 1px solid  rgb(189, 166, 166);
     border-radius: 4px;
@@ -50,7 +50,7 @@ hr{
     color: rgb(83, 77, 77);
 }
 .dob{
-    width: 124px;
+    width: 124.4px;
     height: 27px;
     border: 1px solid gray;
     border-radius: 4px;
@@ -70,7 +70,7 @@ hr{
 }
 .gender{
     display: flex;
-    gap: 9px;
+    gap: 10px;
 }
 .gender-radio{
     width: 120px;
